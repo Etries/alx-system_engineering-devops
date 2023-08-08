@@ -1,4 +1,6 @@
 Shell, init files, variables and expansions
+to run the files use ./<filename>
+
 ***0-alias***
 >A script that creates an alias for "rm *"
 
